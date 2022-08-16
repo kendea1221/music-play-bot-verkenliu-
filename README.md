@@ -1,1 +1,1 @@
-#　音楽再生ボットMusicPlayingBot forKendea&T.Liuの使い方について
+#  音楽再生ボットMusicPlayingBot forKendea&T.Liuの使い方について
